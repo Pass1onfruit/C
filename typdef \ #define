@@ -12,8 +12,8 @@ int_ptr a, b;
 如：
 typedef struct int_ptr
 {
-int *a;
-int *b;
+  int *a;
+  int *b;
 } int_ptrAB
 
 可以为复杂的声明定义一个简单的别名
